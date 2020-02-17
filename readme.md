@@ -2,43 +2,41 @@
 Chromatic Solfege
 ==================
 
-Chromatic Solfege is a variant of Solfege. Solfege's note name system is base on
-a diatonic scale; therefore, by the traditional Solfege, there are some
-difficulties to read songs which are polymodal . Chromatic Solfege is based on
-the twelve-note chromatic scale and it is suitable to read such songs.
+Chromatic Solfege is a variant of Solfege. While Solfege is base on a diatonic
+scale, Chromatic Solfege is based on the twelve-note chromatic scale.
 
-In Chromatic Solfege, there are two scales :
+In Chromatic Solfege, there are two scales as :
 
-#### Augumented ( Ascent )
+#### The Augmented Chromatic Scale ( Ascending ) ![do di re ri mi fa fi sol si la li ti do](an-introduction-to-chromatic-solfege/doc/solfege-aug.png)
 
-> _do di re ri mi fa fi sol si la li ti do_
-
-#### Diminished ( Descent )
-
-> _do ti te la le sol se fa mi me re ra do_
-
+#### The Diminished Chromatic Scale ( Descending ) ![do ti te la le sol se fa mi me re ra do](an-introduction-to-chromatic-solfege/doc/solfege-dim.png)
 
 What I have done here is :
 
-- I have extended the note name system for reading notes which are with
-  irregular tonals, and reorganized it into a new system, and then written a
-  description about the system; this is what I call Chromatic-Solfege.
+- I have reorganized a Chromatic Solfege's note name system into a new system
+  which I believe suitable for reading music in irregular keys/scales with
+  double, triple accidentals, and written a description about the system.
 
-- I have written some helper tool applications to write documentation with
+- I have written a number of applications to write documentation with
   Chromatic-Solfege.
-
 
 What I offer here is :
 
-- An Introduction to Chromatic-Solfege
+- (An Introduction to Chromatic-Solfege)[an-introduction-to-chromatic-solfege]
+  The description about Chromatic-Solfege which I reorganized.
+  
+- I also presented a number of practice patterns to build fluency with the note
+  names.
 
-- [aaron.ly](./chromadoc/) A Lilypond library to input notes by 
+- Videos to build fluency with Chromatic-Solfege.
+
+- [aaron.ly](chromadoc/lib-ly/aaron) A Lilypond library to write music with
   Chromatic-Solfege.
 
-- [chromadoc](./chromadoc/lib-ly/aaron.md)
-  A documentation tool to create documents which consist tex documents with
-  musical notations.
+- [chromadoc](chromadoc) This allows your documents sing. A documentation tool
+  to create documents which consist tex documents with musical notations. This
+  includes a program which converts your documents into tex documents. It also
+  automatically converts your documents into audio/video data.
 
 
-[modeline]: # ( vim: set spell auto )
-
+[modeline]: # ( vim: set spell fo+=a path+=../ suffixesadd+=.md: )
