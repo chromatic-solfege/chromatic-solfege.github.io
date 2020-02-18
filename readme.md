@@ -12,25 +12,29 @@ great for improving your skill of improvisation especially in Jazz.
 
 What I have done here is :
 
-- I have reorganized a Chromatic Solfege's note name system into a new system
-  which I believe suitable for acquiring better understanding of tonality in
-  irregular keys/scales by defining double, triple and quadruple accidentals,
-  and then written a paper about the definition of the new note names.
+-  I have reorganized a Chromatic Solfege's note name system into a new system
+   which I believe suitable for improving your ability of improvising, notably
+   redefined note names with double, triple and quadruple accidentals, which
+   are important for contemporary jazz, and written a paper about the
+   definition of the new note names.
 
-- I have written some applications to write documentation with
-  Chromatic-Solfege.
+-  I have written some applications to write the documentation. It allows you
+   to write documents which consists the note names of Chromatic-Solfege.
 
 What I offer here is :
 
-- (An Introduction to Chromatic-Solfege)[an-introduction-to-chromatic-solfege/]
-  The description about Chromatic-Solfege which I reorganized.
+- [An Introduction to Chromatic-Solfege](an-introduction-to-chromatic-solfege/)
+  a paper describing about Chromatic-Solfege. 
   
-- I also presented a number of practice patterns to build fluency with the note
-  names.
+    - A number of practice patterns to build fluency with the note names.
 
-- Videos to intuitively learn the Chromatic-Solfege.
+    - A videos to intuitively learn the Chromatic-Solfege.
 
-- [aaron.ly](./chromadoc/lib-ly/aaron) A Lilypond library to write music with
+- The source code of the paper.
+
+- A toolset to create the paper.
+
+- [aaron.ly](./chromadoc/lib-ly/aaron) a Lilypond library to write music with
   Chromatic-Solfege.
 
 - [chromadoc](chromadoc) This allows your documents to sing. A documentation
