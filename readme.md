@@ -9,11 +9,11 @@ In Chromatic Solfege, there are two scales as :
 
 #### The Augmented Chromatic Scale ( Ascending )
 
-![do di re ri mi fa fi sol si la li ti do](an-introduction-to-chromatic-solfege/doc/solfege-aug.png)
+![do di re ri mi fa fi sol si la li ti do](./an-introduction-to-chromatic-solfege/doc/solfege-aug.png)
 
 #### The Diminished Chromatic Scale ( Descending ) 
 
-![do ti te la le sol se fa mi me re ra do](an-introduction-to-chromatic-solfege/doc/solfege-dim.png)
+![do ti te la le sol se fa mi me re ra do](./an-introduction-to-chromatic-solfege/doc/solfege-dim.png)
 
 What I have done here is :
 
@@ -26,15 +26,15 @@ What I have done here is :
 
 What I offer here is :
 
-- (An Introduction to Chromatic-Solfege)[an-introduction-to-chromatic-solfege]
-  The description about Chromatic-Solfege which I reorganized.
+- (An Introduction to Chromatic-Solfege)[./an-introduction-to-chromatic-solfege] The description
+  about Chromatic-Solfege which I reorganized.
   
 - I also presented a number of practice patterns to build fluency with the note
   names.
 
 - Videos to build fluency with Chromatic-Solfege.
 
-- [aaron.ly](chromadoc/lib-ly/aaron) A Lilypond library to write music with
+- [aaron.ly](./chromadoc/lib-ly/aaron) A Lilypond library to write music with
   Chromatic-Solfege.
 
 - [chromadoc](chromadoc) This allows your documents sing. A documentation tool
