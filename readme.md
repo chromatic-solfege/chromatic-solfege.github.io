@@ -10,36 +10,34 @@ great for improving your skill of improvisation especially in Jazz.
 
 ![do ti te la le sol se fa mi me re ra do](./an-introduction-to-chromatic-solfege/doc/solfege-dim.png)
 
-What I have done here is :
-
--  I have reorganized a Chromatic Solfege's note name system into a new system
-   which I believe suitable for improving your ability of improvising, notably
-   redefined note names with double, triple and quadruple accidentals, which
-   are important for contemporary jazz, and written a paper about the
-   definition of the new note names.
-
--  I have written some applications to write the documentation. It allows you
-   to write documents which consists the note names of Chromatic-Solfege.
-
-What I offer here is :
-
-- [An Introduction to Chromatic-Solfege](an-introduction-to-chromatic-solfege/)
-  a paper describing about Chromatic-Solfege. 
-  
-    - A number of practice patterns to build fluency with the note names.
-
-    - A videos to intuitively learn the Chromatic-Solfege.
-
-- The source code of the paper.
-
-- A toolset to create the paper.
+I have written some programs to utilize Chromatic-Solfege.
 
 - [aaron.ly](./chromadoc/lib-ly/aaron) a Lilypond library to write music with
   Chromatic-Solfege.
 
-- [chromadoc](chromadoc) This allows your documents to sing. A documentation
-  tool to create documents which consist tex documents with musical notations.
+- [Chromadoc](chromadoc) A documentation tool to create documents which consist
+  tex documents with musical notations which are written in Chromatic-Solfege.
   This includes a program which converts your documents into tex documents. It
-  also automatically converts your documents into audio/video data.
+  also automatically converts your documents into audio data with singing the
+  note names.
+
+- [An Introduction to Chromatic-Solfege](an-introduction-to-chromatic-solfege/)
+  a paper describing about Chromatic-Solfege. What I have done here is :
+    -  I have reorganized a Chromatic Solfege's note name system into a new
+       system which I believe suitable for improving your ability of
+       improvising, notably redefined note names with double, triple and
+       quadruple accidentals, which are important for contemporary jazz, and
+       written a paper about the definition of the new note names.
+
+    - A number of practice patterns to build fluency with the note names.
+
+    - A videos of a computer generated singing which reads aloud the note
+      names.
+
+- The source code of the [An Introduction to
+  Chromatic-Solfege](an-introduction-to-chromatic-solfege/). The paper itself
+  is written by Chromadoc. 
+
+
 
 [modeline]: # ( vim: set spell fo+=a path+=../ suffixesadd+=.md: )
