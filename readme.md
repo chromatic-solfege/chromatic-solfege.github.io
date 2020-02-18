@@ -9,11 +9,13 @@ In Chromatic Solfege, there are two scales as :
 
 #### The Augmented Chromatic Scale ( Ascending )
 
-![do di re ri mi fa fi sol si la li ti do](./an-introduction-to-chromatic-solfege/doc/solfege-aug.png)
+![do di re ri mi fa fi sol si la li ti
+do](../an-introduction-to-chromatic-solfege/doc/solfege-aug.png)
 
 #### The Diminished Chromatic Scale ( Descending ) 
 
-![do ti te la le sol se fa mi me re ra do](./an-introduction-to-chromatic-solfege/doc/solfege-dim.png)
+![do ti te la le sol se fa mi me re ra
+do](../an-introduction-to-chromatic-solfege/doc/solfege-dim.png)
 
 What I have done here is :
 
