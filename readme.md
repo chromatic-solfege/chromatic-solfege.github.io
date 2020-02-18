@@ -26,7 +26,8 @@ What I have done here is :
 
 What I offer here is :
 
-- (An Introduction to Chromatic-Solfege)[./an-introduction-to-chromatic-solfege] The description
+- (An Introduction to
+  Chromatic-Solfege)[./an-introduction-to-chromatic-solfege/] The description
   about Chromatic-Solfege which I reorganized.
   
 - I also presented a number of practice patterns to build fluency with the note
