@@ -6,8 +6,8 @@ Chromatic-Solfege is a variant of Solfege. While Solfege is base on a diatonic
 scale, Chromatic-Solfege is based on the twelve-note chromatic scale. This is
 great for improving your skill of improvisation especially in Jazz.
 
-|Ascending Chromatic Scale | Descending Chromatic Scale |
-|--------------------------|----------------------------|
+| Ascending Chromatic Scale | Descending Chromatic Scale |
+|---------------------------|----------------------------|
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
 I have written some programs to utilize Chromatic-Solfege.
