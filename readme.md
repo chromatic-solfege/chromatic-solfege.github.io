@@ -6,10 +6,9 @@ Chromatic-Solfege is a variant of Solfege. While Solfege is base on a diatonic
 scale, Chromatic-Solfege is based on the twelve-note chromatic scale. This is
 great for improving your skill of improvisation especially in Jazz.
 
-Ascending Chromatic Scale | Descending Chromatic Scale
---------------------------|---------------------------
-![do di re ri mi fa fi sol si la li ti do](./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png) | 
-![do ti te la le sol se fa mi me re ra do](./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png) 
+|Ascending Chromatic Scale | Descending Chromatic Scale |
+|--------------------------|----------------------------|
+|![do di re ri mi fa fi sol si la li ti do][aug-small] |![do ti te la le sol se fa mi me re ra do](dim-small])|
 
 I have written some programs to utilize Chromatic-Solfege.
 
@@ -45,5 +44,6 @@ I have written some programs to utilize Chromatic-Solfege.
   itself is written by [Chromadoc](./chromadoc/). 
 
 
-
-[modeline]: # ( vim: set spell fo+=a2 path+=../ suffixesadd+=.md: )
+[aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
+[dim-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
+[modeline]: # ( vim: set spelsl fo+=a2 path+=../ suffixesadd+=.md: )
