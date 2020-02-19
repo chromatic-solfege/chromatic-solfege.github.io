@@ -1,0 +1,15 @@
+[submodule "chromadoc"]
+	path = chromadoc
+	url = https://github.com/chromatic-solfege/chromadoc.git
+[submodule "chromatic-solfege"]
+	path = chromatic-solfege
+	url = https://github.com/chromatic-solfege/chromatic-solfege.git
+[submodule "an-introduction-to-chromatic-solfege"]
+	path = an-introduction-to-chromatic-solfege
+	url = https://github.com/chromatic-solfege/an-introduction-to-chromatic-solfege.git
+[submodule "chromatic-solfege-for-lilypond"]
+	path = chromatic-solfege-for-lilypond
+	url = https://github.com/chromatic-solfege/chromatic-solfege-for-lilypond.git
+[submodule "chromadoc-examples"]
+	path = chromadoc-examples
+	url = https://github.com/chromatic-solfege/chromadoc-examples
