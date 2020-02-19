@@ -12,11 +12,11 @@ great for improving your skill of improvisation especially in Jazz.
 
 I have written some programs to utilize Chromatic-Solfege.
 
-- [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/ |
-  width=200) a Lilypond library to write music with Chromatic-Solfege.
+- [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/)          
+  a Lilypond library to write music with Chromatic-Solfege.
 
-- [Chromatic-Solfege for JavaScript](./chromatic-solfege-for-javascript/ |
-  width=200) JavaScript module to transpose a sequence of notes which are
+- [Chromatic-Solfege for JavaScript](./chromatic-solfege-for-javascript/) 
+  JavaScript module to transpose a sequence of notes which are
   written in Chromatic-Solfege. This includes the definition of all note names
   and intervals.
 
