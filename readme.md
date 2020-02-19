@@ -8,7 +8,7 @@ great for improving your skill of improvisation especially in Jazz.
 
 |Ascending Chromatic Scale | Descending Chromatic Scale |
 |--------------------------|----------------------------|
-|![do di re ri mi fa fi sol si la li ti do][aug-small] |![do ti te la le sol se fa mi me re ra do](dim-small])|
+| ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do](dim-small]) |
 
 I have written some programs to utilize Chromatic-Solfege.
 
@@ -46,4 +46,4 @@ I have written some programs to utilize Chromatic-Solfege.
 
 [aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
 [dim-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
-[modeline]: # ( vim: set spelsl fo+=a2 path+=../ suffixesadd+=.md: )
+[modeline]: # ( vim: set spell fo+=a2 path+=../ suffixesadd+=.md: )
