@@ -12,13 +12,13 @@ great for improving your skill of improvisation especially in Jazz.
 
 I have written some programs to utilize Chromatic-Solfege.
 
-- [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/) a
-  Lilypond library to write music with Chromatic-Solfege.
+- [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/ |
+  width=200) a Lilypond library to write music with Chromatic-Solfege.
 
-- [Chromatic-Solfege for JavaScript](./chromatic-solfege-for-javascript/)
-  JavaScript module to transpose a sequence of notes which are written in
-  Chromatic-Solfege. This includes the definition of all note names and
-  intervals.
+- [Chromatic-Solfege for JavaScript](./chromatic-solfege-for-javascript/ |
+  width=200) JavaScript module to transpose a sequence of notes which are
+  written in Chromatic-Solfege. This includes the definition of all note names
+  and intervals.
 
 - [Chromadoc](./chromadoc/) A toolkit for writing documentations with
   Chromatic-Solfege which automatically generates tex, synthesis singing audio
@@ -40,8 +40,8 @@ I have written some programs to utilize Chromatic-Solfege.
       patterns with the Chromatic-Solfege.
 
 - The source code of the [An Introduction to
-  Chromatic-Solfege](an-introduction-to-chromatic-solfege/). The paper itself
-  is written by Chromadoc. 
+  Chromatic-Solfege](an-introduction-to-chromatic-solfege/). The description
+  itself is written by [Chromadoc](./chromadoc/). 
 
 
 
