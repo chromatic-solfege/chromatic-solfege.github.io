@@ -15,6 +15,8 @@ I have written some programs to utilize Chromatic-Solfege.
 - [aaron.ly](./chromatic-solfege-for-lilypond/) a Lilypond library to write
   music with Chromatic-Solfege.
 
+- [Chromatic Solfege for JavaScript](./chromatic-solfege/)  
+
 - [Chromadoc](./chromadoc/) A documentation tool to create documents which
   consist tex documents with musical notations which are written in
   Chromatic-Solfege.  This includes a program which converts your documents
