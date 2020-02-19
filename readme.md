@@ -13,12 +13,14 @@ great for improving your skill of improvisation especially in Jazz.
 I have written some programs to utilize Chromatic-Solfege.
 
 - [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/)          
-  a Lilypond library to write music with Chromatic-Solfege.
+  a Lilypond library to write music with Chromatic-Solfege. This library 
+  includes some utilities to manipulate intervals and notes which are written 
+  in Chromatic-Solfege.
 
 - [Chromatic-Solfege for JavaScript](./chromatic-solfege-for-javascript/) 
-  JavaScript module to transpose a sequence of notes which are
-  written in Chromatic-Solfege. This includes the definition of all note names
-  and intervals.
+  JavaScript module to manipulate notes and intervals which are
+  written in Chromatic-Solfege. This module also includes the definition of all 
+  note names and intervals.
 
 - [Chromadoc](./chromadoc/) A toolkit for writing documentations with
   Chromatic-Solfege which automatically generates tex, synthesis singing audio
@@ -46,4 +48,4 @@ I have written some programs to utilize Chromatic-Solfege.
 
 [aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
 [dim-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
-[modeline]: # ( vim: set spell fo+=a2 path+=../ suffixesadd+=.md: )
+[modeline]: # ( vim: set spell fo+=a path+=../ suffixesadd+=.md: )
