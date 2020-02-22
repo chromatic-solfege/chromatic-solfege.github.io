@@ -4,9 +4,11 @@ function generateToc( post_id, target_id, toc_class ) {
     var level = 0;
     var element;
     if ( post_id.startsWith( '#' ) ){
-        post_id = document.getElementById( post_id.substring(1) );
+        element = document.getElementById( post_id.substring(1) );
     } else if ( post_id.startsWith( '.' ) ){
-        post_id = document.getElementsByClassName( post_id.substring(1) )[0];
+        element = document.getElementsByClassName( post_id.substring(1) )[0];
+    } else {
+        element = document.getElementById( post_id.substring(1) );
     }
     
     element.innerHTML = (
