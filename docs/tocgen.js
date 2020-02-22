@@ -2,7 +2,13 @@
 function generateToc( post_id, target_id, toc_class ) {
     var toc = "";
     var level = 0;
-    var element = document.getElementsByClassName( post_id )[0];
+    var element;
+    if ( post_id.startsWith( '#' ) ){
+        post_id = document.getElementById( post_id.substring(1) );
+    } else if ( post_id.startsWith( '.' ) ){
+        post_id = document.getElementsByClassName( post_id.substring(1) )[0];
+    }
+    
     element.innerHTML = (
         element.innerHTML.replace(
             /<h([\d])>([^<]+)<\/h([\d])>/gi,
