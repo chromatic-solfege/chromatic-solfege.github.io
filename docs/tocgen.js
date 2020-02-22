@@ -1,4 +1,5 @@
-function generateToc( post_id, toc_class ) {
+
+function generateToc( post_id, target_id, toc_class ) {
     var toc = "";
     var level = 0;
     var element = document.getElementsByClassName( post_id )[0];
@@ -52,17 +53,20 @@ function generateToc( post_id, toc_class ) {
         var tocElement = document.createElement("div");
         tocElement.setAttribute( "class" , toc_class );
         tocElement.innerHTML = toc;
-        var objectElement = document.getElementsByName('more')[0];
+        var objectElement = document.getElementsByName( target_id )[0];
         console.error( objectElement );
         objectElement.parentNode.insertBefore( tocElement, objectElement.nextSibling );
     }
 }
+
+function registerTOC( post_id, target_id, toc_class ) {
+    window.addEventListener( 'load', function(){ generateToc(post_id,target_id,toc_class)} );
+    // setTimeout( generateToc , 1000 );
+}
+
 console.error( 'toc generator was loaded.' );
 
 {
-    var post_id = "main_content";
-    var toc_class  = "main_content_class";
-    window.addEventListener( 'load', function(){ generateToc(post_id,toc_class)} );
-    // setTimeout( generateToc , 1000 );
+    // registerTOC( "main_content", "chromatic-toc", "chromatic-toc-class" );
 }
 
