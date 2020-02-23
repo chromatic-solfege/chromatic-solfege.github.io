@@ -10,6 +10,9 @@ great for improving your skill of improvisation especially in Jazz.
 |---------------------------|----------------------------|
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
+For further information of Chromatic-Solfege, see [An Introduction to 
+Chromatic-Solfege](an-introduction-to-chromatic-solfege/).
+
 I have written some programs to utilize Chromatic-Solfege.
 
 - [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/)          
