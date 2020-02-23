@@ -48,6 +48,12 @@ I have written some programs to utilize Chromatic-Solfege.
   Chromatic-Solfege](an-introduction-to-chromatic-solfege/). The description
   itself is written by [Chromadoc](./chromadoc/). 
 
+<style>
+section{
+    color : #000;
+    background-color : #fff;
+}
+</style>
 
 [aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
 [dim-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
