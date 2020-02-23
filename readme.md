@@ -49,10 +49,7 @@ I have written some programs to utilize Chromatic-Solfege.
   itself is written by [Chromadoc](./chromadoc/). 
 
 <style>
-section{
-    color : #000;
-    background-color : #fff;
-}
+    @import "/docs/custom.css"
 </style>
 
 [aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
