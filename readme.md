@@ -6,15 +6,6 @@ great for improving your skill of improvisation especially in Jazz.
 |---------------------------|----------------------------|
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
-## An Introduction to Chromatic-Solfege
-
-I have extended the note naming rule of Chromatic-Solfege into a new form which 
-I believe is more suitable to improve your ability of improvising. The 
-extension covers modifying the naming rule for double, triple and quadruple 
-accidentals. Those irregular accidentals are useful to analyzing pieces of 
-polymodal music. And I have developed comprehensive exercises to build fluency 
-for the note names. The exercises can be learned with model videos.   
-
 For further information of Chromatic-Solfege, see [An Introduction to 
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/).
 
@@ -36,9 +27,19 @@ I have written some programs to utilize Chromatic-Solfege.
   tex, synthesis singing audio and videos. 
 
 ## An Introduction to Chromatic-Solfege
-A paper [An Introduction to 
+
+I have extended the note naming rule of Chromatic-Solfege into a new form which 
+I believe is more suitable to improve your ability of improvising. The 
+extension covers modifying the naming rule for double, triple and quadruple 
+accidentals. Those irregular accidentals are useful to analyzing pieces of 
+polymodal music. And I have developed comprehensive exercises to build fluency 
+for the note names. The exercises can be learned with model videos.   
+
+I have written a paper [An Introduction to 
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/)
-  is a description of Chromatic-Solfege. I described : 
+  to describe my version of Chromatic-Solfege. 
+  
+I described : 
 -  The difference between my version of Chromatic-Solfege and others.  I have 
    extended the note naming rule of Chromatic-Solfege into a new form which I 
    believe is more suitable to improve your ability of improvising.  The 
@@ -51,6 +52,7 @@ Chromatic-Solfege](an-introduction-to-chromatic-solfege/)
 - A videos of a computer generated singing which reads aloud the practice
   patterns with the Chromatic-Solfege.
 
+## The Source Code of "An Introduction to Chromatic-Solfege"
 The source code of the [An Introduction to 
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/) is available. It is 
 written by [Chromadoc](./chromadoc/). 
