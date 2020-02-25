@@ -1,8 +1,3 @@
-
-Chromatic-Solfege
-==================
-
-## About Extended Chromatic-Solfege
 Chromatic-Solfege is a variant of Solfege.  While Solfege is base on a diatonic 
 scale, Chromatic-Solfege is based on the twelve-note chromatic scale. This is 
 great for improving your skill of improvisation especially in Jazz.
@@ -10,6 +5,15 @@ great for improving your skill of improvisation especially in Jazz.
 | Ascending Chromatic Scale | Descending Chromatic Scale |
 |---------------------------|----------------------------|
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
+
+## An Introduction to Chromatic-Solfege
+
+I have extended the note naming rule of Chromatic-Solfege into a new form which 
+I believe is more suitable to improve your ability of improvising. The 
+extension covers modifying the naming rule for double, triple and quadruple 
+accidentals. Those irregular accidentals are useful to analyzing pieces of 
+polymodal music. And I have developed comprehensive exercises to build fluency 
+for the note names. The exercises can be learned with model videos.   
 
 For further information of Chromatic-Solfege, see [An Introduction to 
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/).
