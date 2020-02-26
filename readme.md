@@ -11,14 +11,12 @@ Jazz.  Following pictures are a summary of the note names of Chromatic-Solfege.
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
 ## An Introduction to Chromatic-Solfege
-I have written a paper [An Introduction to Chromatic-Solfege][aitcs].  I 
-described : 
-- The difference between my version of Chromatic-Solfege and general 
-  Chromatic-Solfege.  
-- A number of practice patterns to build fluency with the extended note
-  naming rule.
-- A videos of a computer generated singing which reads aloud the practice
-  patterns with the Chromatic-Solfege.
+I have written a paper [An Introduction to Chromatic-Solfege][aitcs]. You may 
+need exercises to build fluency with the new note names; therefore, I have made 
+a number of comprehensive exercise patterns. The exercise patterns are 
+described in the paper. You can also learn the exercise patterns with the 
+musical score, and a computer generated singing voice audio materials and 
+videos.
 
 ## Utilities for Chromatic-Solfege
 At a time to write the paper, I found that writing music and words at a same 
@@ -43,7 +41,6 @@ programs which converts TeX documents with embedded music data in them.
   This is a JavaScript module to manipulate notes and intervals which are 
   written in Chromatic-Solfege. This module also includes the definition of all 
   note names and intervals. [Chromadoc][chromadoc] depends on this module.
-
 
 
 ## The Source Code of "An Introduction to Chromatic-Solfege"
