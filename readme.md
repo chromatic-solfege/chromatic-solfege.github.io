@@ -22,8 +22,8 @@ I described :
 
 ## Utilities for Chromatic-Solfege
 At a time to write the paper, I found that writing music and words at a same 
-time is difficult. Therefore, I have also written some computer programs to 
-convert TeX documents with embedded music data in them.
+time needs a lot of work. Therefore, I have also written some helper computer 
+programs which converts TeX documents with embedded music data in them.
 
 - [Chromadoc][chromadoc] is a document converter. This converter converts 
   documents written in Chromadoc format into TeX and Lilypond documents and 
