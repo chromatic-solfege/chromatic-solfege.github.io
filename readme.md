@@ -11,16 +11,16 @@ Jazz.  Following pictures are a summary of the note names of Chromatic-Solfege.
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
 ## An Introduction to Chromatic-Solfege
-I have written a paper [An Introduction to Chromatic-Solfege][aitcs]. You may 
-need exercises to build fluency with the new note names; therefore, I have made 
-a number of comprehensive exercise patterns. The exercise patterns are 
-described in the [paper][aitcs]. You can also learn the exercise patterns with 
-the musical score, and a computer generated singing voice audio materials and 
-videos.
+I have written an article [An Introduction to Chromatic-Solfege][aitcs]. You 
+may need exercises to build fluency with the new note names; therefore, I have 
+made a number of comprehensive exercise patterns. The exercise patterns are 
+described in the [article][aitcs]. You can also learn the exercise patterns 
+with the musical score, and a computer generated singing voice audio materials 
+and videos.
 
 ## Utilities for Chromatic-Solfege
-At a time to write the [paper][aitcs], I found that writing music and words at 
-a same time needs a lot of work. Therefore, I have also written some helper 
+At a time to write the [article][aitcs], I found that writing music and words 
+at a same time needs a lot of work. Therefore, I have also written some helper 
 computer programs which converts TeX documents with embedded music data in 
 them.
 
