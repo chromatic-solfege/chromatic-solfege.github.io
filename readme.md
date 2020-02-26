@@ -11,10 +11,10 @@ Jazz.  Following pictures are a summary of the note names of Chromatic-Solfege.
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
 ## An Introduction to Chromatic-Solfege
-I have written a paper [An Introduction to Chromatic-Solfege][aitcs].
-  
-I described : 
-- The difference between my version of Chromatic-Solfege and others.  
+I have written a paper [An Introduction to Chromatic-Solfege][aitcs].  I 
+described : 
+- The difference between my version of Chromatic-Solfege and general 
+  Chromatic-Solfege.  
 - A number of practice patterns to build fluency with the extended note
   naming rule.
 - A videos of a computer generated singing which reads aloud the practice
