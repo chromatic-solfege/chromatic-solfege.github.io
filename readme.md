@@ -1,6 +1,10 @@
-Chromatic-Solfege is a variant of Solfege.  While Solfege is base on a diatonic 
-scale, Chromatic-Solfege is based on the twelve-note chromatic scale. This is 
-great for improving your skill of improvisation especially in Jazz.
+ Chromatic-Solfege and the Utilities
+===========================================
+
+Chromatic-Solfege is a variant of Solfege. While Solfege is based on a diatonic
+scale, Chromatic-Solfege is based on the twelve-note chromatic scale. This is
+a very powerful tool for improving your skill of improvisation especially in 
+Jazz.  Following pictures are a summary of the note names of Chromatic-Solfege.
 
 | Ascending Chromatic Scale | Descending Chromatic Scale |
 |---------------------------|----------------------------|
@@ -15,9 +19,8 @@ accidentals. Those irregular accidentals are useful to analyzing pieces of
 polymodal music. And I have developed comprehensive exercises to build fluency 
 for the note names. The exercises can be learned with model videos.   
 
-I have written a paper 
-[An Introduction to Chromatic-Solfege](an-introduction-to-chromatic-solfege/)
-to describe my version of Chromatic-Solfege. 
+I have written a paper [An Introduction to Chromatic-Solfege][aitcs] to 
+describe my version of Chromatic-Solfege.
   
 I described : 
 -  The difference between my version of Chromatic-Solfege and others.  
@@ -27,21 +30,29 @@ I described :
   patterns with the Chromatic-Solfege.
 
 ## Utilities for Chromatic-Solfege
-I have written some programs to utilize Chromatic-Solfege.
+At a time to write the paper, I found that writing music and words at a same 
+time is difficult. Therefore, I have also written some computer programs to 
+convert TeX documents with embedded music data in them.
 
-- [Chromatic-Solfege for Lilypond](./chromatic-solfege-for-lilypond/)
-  a Lilypond library to write music with Chromatic-Solfege. This library 
-  includes some utilities to manipulate intervals and notes which are written 
-  in Chromatic-Solfege.
+- [Chromadoc][chromadoc] is a document converter. This converter converts 
+  documents written in Chromadoc format into TeX and Lilypond documents and 
+  then build them into a PDF file. It also automatically generates audio data
+  of reading aloud the document with singing notes then convert it to video 
+  file.
 
-- [Chromatic-Solfege for JavaScript](./chromatic-solfege-for-javascript/) 
-  JavaScript module to manipulate notes and intervals which are written in 
-  Chromatic-Solfege. This module also includes the definition of all note names 
-  and intervals.
+- [Chromatic-Solfege for Lilypond][csfly]
+  This is a Lilypond library to write music with Chromatic-Solfege. This 
+  library includes some utilities to manipulate intervals and notes which are 
+  written in Chromatic-Solfege. [Chromadoc][chromadoc] depends on this module.
 
-- [Chromadoc](./chromadoc/) A toolkit for writing documentations includes both
-  Chromatic-Solfege notation and TeX command. Chromadoc automatically generates 
-  tex, synthesis singing audio and videos. 
+- [Chromatic-Solfege for JavaScript][csfjs]
+  I also had some difficulty to write a large amount of musical notes which 
+  should be permutated to all possibilities. Therefore, I have also written 
+  some computer programs to automatically transpose a series of notes.
+  This is a JavaScript module to manipulate notes and intervals which are 
+  written in Chromatic-Solfege. This module also includes the definition of all 
+  note names and intervals. [Chromadoc][chromadoc] depends on this module.
+
 
 
 ## The Source Code of "An Introduction to Chromatic-Solfege"
@@ -50,9 +61,13 @@ Chromatic-Solfege](an-introduction-to-chromatic-solfege/) is available. It is
 written by [Chromadoc](./chromadoc/). 
 
 <style>
-    @import "/docs/custom.css"
+@import "/docs/custom.css"
 </style>
 
+[aitcs]: https://chromatic-solfege.github.io/an-introduction-to-chromatic-solfege/
+[chromadoc]: https://chromatic-solfege.github.io/chromadoc/
+[csfjs]: https://chromatic-solfege.github.io/chromatic-solfege-for-javascript/
+[csfly]: https://chromatic-solfege.github.io/chromatic-solfege-for-lilypond/
 [aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
 [dim-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
 [modeline]: # ( vim: set spell fo+=a path+=../ suffixesadd+=.md: )
