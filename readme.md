@@ -14,14 +14,15 @@ Jazz.  Following pictures are a summary of the note names of Chromatic-Solfege.
 I have written a paper [An Introduction to Chromatic-Solfege][aitcs]. You may 
 need exercises to build fluency with the new note names; therefore, I have made 
 a number of comprehensive exercise patterns. The exercise patterns are 
-described in the paper. You can also learn the exercise patterns with the 
-musical score, and a computer generated singing voice audio materials and 
+described in the [paper][aitcs]. You can also learn the exercise patterns with 
+the musical score, and a computer generated singing voice audio materials and 
 videos.
 
 ## Utilities for Chromatic-Solfege
-At a time to write the paper, I found that writing music and words at a same 
-time needs a lot of work. Therefore, I have also written some helper computer 
-programs which converts TeX documents with embedded music data in them.
+At a time to write the [paper][aitcs], I found that writing music and words at 
+a same time needs a lot of work. Therefore, I have also written some helper 
+computer programs which converts TeX documents with embedded music data in 
+them.
 
 - [Chromadoc][chromadoc] is a document converter. This converter converts 
   documents written in Chromadoc format into TeX and Lilypond documents and 
