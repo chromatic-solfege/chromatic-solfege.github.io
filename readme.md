@@ -11,19 +11,10 @@ Jazz.  Following pictures are a summary of the note names of Chromatic-Solfege.
 | ![do di re ri mi fa fi sol si la li ti do][aug-small] | ![do ti te la le sol se fa mi me re ra do][dim-small] |
 
 ## An Introduction to Chromatic-Solfege
-
-I have extended the note naming rule of Chromatic-Solfege into a new form which 
-I believe is more suitable to improve your ability of improvising. The 
-extension covers modifying the naming rule for double, triple and quadruple 
-accidentals. Those irregular accidentals are useful to analyzing pieces of 
-polymodal music. And I have developed comprehensive exercises to build fluency 
-for the note names. The exercises can be learned with model videos.   
-
-I have written a paper [An Introduction to Chromatic-Solfege][aitcs] to 
-describe my version of Chromatic-Solfege.
+I have written a paper [An Introduction to Chromatic-Solfege][aitcs].
   
 I described : 
--  The difference between my version of Chromatic-Solfege and others.  
+- The difference between my version of Chromatic-Solfege and others.  
 - A number of practice patterns to build fluency with the extended note
   naming rule.
 - A videos of a computer generated singing which reads aloud the practice
