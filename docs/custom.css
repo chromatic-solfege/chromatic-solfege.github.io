@@ -1,12 +1,19 @@
-section {
-    color:#000;
-    background-color:#fff;
-}
-
 header {
     background : #8bb;
+}
+section {
+    color:#000;
+    margin-top : 150px;
+    background-color:#fff;
+    font-weight : 300;
 }
 header p {
     color:#fff;
 }
-
+nav {
+    width : 400px;
+    position : fixed;
+    top : 200px;
+    left : calc( 50% - 360px - 400px );
+    margin : auto;
+}
