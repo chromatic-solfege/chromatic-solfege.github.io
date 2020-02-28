@@ -18,7 +18,7 @@ described in the [article][aitcs]. You can also learn the exercise patterns
 with the musical score, and a computer generated singing voice audio materials 
 and videos.
 
-## Utilities for Chromatic-Solfege
+## Utilities
 At a time to write the [article][aitcs], I found that writing music and words 
 at a same time needs a lot of work. Therefore, I have also written some helper 
 computer programs which converts TeX documents with embedded music data in 
@@ -44,7 +44,7 @@ them.
   note names and intervals. [Chromadoc][chromadoc] depends on this module.
 
 
-## The Source Code of "An Introduction to Chromatic-Solfege"
+## Source Code
 The source code of the [An Introduction to 
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/) is available. It is 
 written by [Chromadoc](./chromadoc/). 
