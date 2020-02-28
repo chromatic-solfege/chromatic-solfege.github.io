@@ -49,14 +49,11 @@ The source code of the [An Introduction to
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/) is available. It is 
 written by [Chromadoc](./chromadoc/). 
 
-<style>
-@import "/docs/custom.css"
-</style>
 
 [aitcs]: https://chromatic-solfege.github.io/an-introduction-to-chromatic-solfege/
 [chromadoc]: https://chromatic-solfege.github.io/chromadoc/
 [csfjs]: https://chromatic-solfege.github.io/chromatic-solfege-for-javascript/
 [csfly]: https://chromatic-solfege.github.io/chromatic-solfege-for-lilypond/
-[aug-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
-[dim-small]: ./an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
+[aug-small]: https://chromatic-solfege.github.io/an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
+[dim-small]: https://chromatic-solfege.github.io/an-introduction-to-chromatic-solfege/docs/solfege-dim-small.png
 [modeline]: # ( vim: set spell fo+=a path+=../ suffixesadd+=.md: )
