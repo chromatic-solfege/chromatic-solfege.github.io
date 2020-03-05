@@ -21,7 +21,7 @@ may need exercises to build fluency with the new note names; therefore, I have
 made a number of comprehensive exercise patterns. The exercise patterns are 
 described in the [article][aitcs]. You can also learn the exercise patterns 
 with the musical score, and a computer generated singing voice audio materials 
-and videos.
+and [videos][videos].
 
 ## Utilities
 At a time to write the [article][aitcs], I found that writing music and words 
@@ -52,11 +52,12 @@ them.
 ## Source Code
 The source code of the [An Introduction to 
 Chromatic-Solfege](an-introduction-to-chromatic-solfege/) is available. It is 
-written by [Chromadoc](./chromadoc/). 
+written by [Chromadoc][chromadoc]. 
 
 
 [aitcs]: https://chromatic-solfege.github.io/an-introduction-to-chromatic-solfege/
 [chromadoc]: https://chromatic-solfege.github.io/chromadoc/
+[videos]: https://youtu.be/VNH8gRttSa4
 [csfjs]: https://chromatic-solfege.github.io/chromatic-solfege-for-javascript/
 [csfly]: https://chromatic-solfege.github.io/chromatic-solfege-for-lilypond/
 [aug-small]: https://chromatic-solfege.github.io/an-introduction-to-chromatic-solfege/docs/solfege-aug-small.png
