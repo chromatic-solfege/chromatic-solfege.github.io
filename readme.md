@@ -6,7 +6,7 @@ src="https://www.youtube.com/embed/VNH8gRttSa4?start=189" frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 <script>
-document.addEventListener( 'load', function() {
+window.addEventListener( 'load', function() {
     var e = document.getElementById( 'main-video' );
     e.style.height = ( e.offsetWidth * 0.5625 ) + 'pt' ;
 });
