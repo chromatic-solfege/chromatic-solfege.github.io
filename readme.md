@@ -1,10 +1,16 @@
  Chromatic-Solfege and the Utilities
 ===========================================
 
-<iframe width="560" height="315" 
+<iframe id="main-video" style="width:100%" 
 src="https://www.youtube.com/embed/VNH8gRttSa4?start=189" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+<script>
+document.addEventListener( 'load', function() {
+    var e = document.getElementById( 'main-video' );
+    e.style.height = ( e.offsetWidth * 0.5625 ) + 'pt' ;
+});
+</script>
 
 Chromatic-Solfege is a variant of Solfege. While Solfege is based on a diatonic
 scale, Chromatic-Solfege is based on the twelve-note chromatic scale. This is
